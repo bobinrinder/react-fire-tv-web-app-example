@@ -4,7 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## About
 
-This is a quick and dirty example of how to create an Fire TV Web App that includes a menu example that is controlled by the up- and down arrow keys. I built this because the [official starter kit](https://github.com/amzn/web-app-starter-kit-for-fire-tv) is not React ready.
+This is a quick and dirty example of how to create a Fire TV Web App that includes a menu example that is controlled by the up- and down arrow keys. I built this because the [official starter kit](https://github.com/amzn/web-app-starter-kit-for-fire-tv) is not React ready.
+
+## Demo
+
+Find the demo of current master at [https://react-fire-tv-web-app-example.netlify.com/](https://react-fire-tv-web-app-example.netlify.com/)
 
 ## Install
 
