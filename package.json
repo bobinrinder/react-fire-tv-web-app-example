@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/bobinrinder/react-fire-tv-web-app-example/issues"
   },
-  "homepage": "https://github.com/bobinrinder/react-fire-tv-web-app-example#readme",
+  "homepage": "https://react-fire-tv-web-app-example.netlify.com/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
