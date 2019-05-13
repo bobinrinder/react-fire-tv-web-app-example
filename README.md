@@ -1,4 +1,22 @@
+# react-fire-tv-web-app-example [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## About
+
+This is a quick and dirty example of how to create an Fire TV Web App that includes a menu example that is controlled by the up- and down arrow keys. I built this because the [official starter kit](https://github.com/amzn/web-app-starter-kit-for-fire-tv) is not React ready.
+
+## Install
+
+Clone the repo with `git clone https://github.com/bobinrinder/react-fire-tv-web-app-example.git`
+
+## Deploy
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bobinrinder/react-fire-tv-web-app-example)
+
+## License
+
+MIT
 
 ## Available Scripts
 
