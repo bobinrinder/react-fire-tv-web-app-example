@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react';
 import './App.css';
-import { useKeyUp, useKeyRepeat } from 'react-keyboard-input-hook';
+import { useKeyUp } from 'react-keyboard-input-hook';
 
 function App() {
   const [selectedIndex, setSelectedIndex] = useState(0);
@@ -28,7 +28,6 @@ function App() {
   const { keyName, keyCode, keyCodeHistory, keyNameHistory } = useKeyUp(
     handleKeyUp
   );
-  useKeyRepeat(handleKeyUp);
 
   const getMenuItems = () => {
     let menuItems = [];
